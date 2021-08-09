@@ -145,4 +145,6 @@ function sshConnect() {
     });
 }
 
+//checking to see if it updates automatically
+
 main();
